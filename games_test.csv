@@ -1,0 +1,13 @@
+location,top25,network,decision
+Home,Out,NBC,Win
+Home,In,NBC,Lose
+Away,Out,ESPN,Win
+Away,Out,FOX,Win
+Home,Out,NBC,Win
+Away,Out,ABC,Win
+Home,In,NBC,Win
+Home,Out,NBC,Win
+Home,Out,NBC,Win
+Away,In,ABC,Lose
+Home,Out,NBC,Win
+Away,In,ABC,Lose
